@@ -1,0 +1,9 @@
+{
+  "name": "LIDATAI",
+  "description": "LIDATAI: The advanced AI-driven business intelligence suite capable of generating complex, high-fidelity visualizations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
